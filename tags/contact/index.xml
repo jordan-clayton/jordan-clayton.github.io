@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact on </title>
+    <link>https://jordan-clayton.github.io/tags/contact/</link>
+    <description>Recent content in Contact on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>jordan.clayton@torontomu.ca (Jordan Clayton)</managingEditor>
+    <webMaster>jordan.clayton@torontomu.ca (Jordan Clayton)</webMaster>
+    <lastBuildDate>Sat, 04 May 2024 18:32:36 -0400</lastBuildDate>
+    <atom:link href="https://jordan-clayton.github.io/tags/contact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://jordan-clayton.github.io/contact/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><author>jordan.clayton@torontomu.ca (Jordan Clayton)</author>
+      <guid>https://jordan-clayton.github.io/contact/</guid>
+      <description>Contact: Let&amp;rsquo;s get in touch</description>
+    </item>
+  </channel>
+</rss>

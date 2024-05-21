@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://jordan-clayton.github.io/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>jordan.clayton@torontomu.ca (Jordan Clayton)</managingEditor>
+    <webMaster>jordan.clayton@torontomu.ca (Jordan Clayton)</webMaster>
+    <atom:link href="https://jordan-clayton.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Allocate</title>
+      <link>https://jordan-clayton.github.io/projects/allocate/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate><author>jordan.clayton@torontomu.ca (Jordan Clayton)</author>
+      <guid>https://jordan-clayton.github.io/projects/allocate/</guid>
+      <description>Neurodivergent-Friendly Task Management built with Flutter</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://jordan-clayton.github.io/about/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><author>jordan.clayton@torontomu.ca (Jordan Clayton)</author>
+      <guid>https://jordan-clayton.github.io/about/</guid>
+      <description>About Me: Uhhhhh&amp;hellip; stuff.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://jordan-clayton.github.io/contact/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><author>jordan.clayton@torontomu.ca (Jordan Clayton)</author>
+      <guid>https://jordan-clayton.github.io/contact/</guid>
+      <description>Contact: Let&amp;rsquo;s get in touch</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>https://jordan-clayton.github.io/cv/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><author>jordan.clayton@torontomu.ca (Jordan Clayton)</author>
+      <guid>https://jordan-clayton.github.io/cv/</guid>
+      <description>Resume content here </description>
+    </item>
+  </channel>
+</rss>
