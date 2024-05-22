@@ -8,13 +8,41 @@
     <language>en-us</language>
     <managingEditor>jordan.clayton@torontomu.ca (Jordan Clayton)</managingEditor>
     <webMaster>jordan.clayton@torontomu.ca (Jordan Clayton)</webMaster>
-    <lastBuildDate>Mon, 20 May 2024 23:08:40 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 04:15:18 -0400</lastBuildDate>
     <atom:link href="https://jordan-clayton.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://jordan-clayton.github.io/tags/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>jordan.clayton@torontomu.ca (Jordan Clayton)</author>
+      <guid>https://jordan-clayton.github.io/tags/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>https://jordan-clayton.github.io/tags/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>jordan.clayton@torontomu.ca (Jordan Clayton)</author>
+      <guid>https://jordan-clayton.github.io/tags/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Desktop</title>
+      <link>https://jordan-clayton.github.io/tags/desktop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>jordan.clayton@torontomu.ca (Jordan Clayton)</author>
+      <guid>https://jordan-clayton.github.io/tags/desktop/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Flutter</title>
       <link>https://jordan-clayton.github.io/tags/flutter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>jordan.clayton@torontomu.ca (Jordan Clayton)</author>
       <guid>https://jordan-clayton.github.io/tags/flutter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mobile</title>
+      <link>https://jordan-clayton.github.io/tags/mobile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>jordan.clayton@torontomu.ca (Jordan Clayton)</author>
+      <guid>https://jordan-clayton.github.io/tags/mobile/</guid>
       <description></description>
     </item>
     <item>
@@ -25,20 +53,6 @@
       <description></description>
     </item>
     <item>
-      <title>NoSQL</title>
-      <link>https://jordan-clayton.github.io/tags/nosql/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>jordan.clayton@torontomu.ca (Jordan Clayton)</author>
-      <guid>https://jordan-clayton.github.io/tags/nosql/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>PostgresSQL</title>
-      <link>https://jordan-clayton.github.io/tags/postgressql/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>jordan.clayton@torontomu.ca (Jordan Clayton)</author>
-      <guid>https://jordan-clayton.github.io/tags/postgressql/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Projects</title>
       <link>https://jordan-clayton.github.io/tags/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>jordan.clayton@torontomu.ca (Jordan Clayton)</author>
@@ -46,10 +60,10 @@
       <description></description>
     </item>
     <item>
-      <title>About</title>
-      <link>https://jordan-clayton.github.io/tags/about/</link>
+      <title>Task</title>
+      <link>https://jordan-clayton.github.io/tags/task/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>jordan.clayton@torontomu.ca (Jordan Clayton)</author>
-      <guid>https://jordan-clayton.github.io/tags/about/</guid>
+      <guid>https://jordan-clayton.github.io/tags/task/</guid>
       <description></description>
     </item>
     <item>
@@ -71,13 +85,6 @@
       <link>https://jordan-clayton.github.io/tags/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>jordan.clayton@torontomu.ca (Jordan Clayton)</author>
       <guid>https://jordan-clayton.github.io/tags/resume/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Software</title>
-      <link>https://jordan-clayton.github.io/tags/software/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>jordan.clayton@torontomu.ca (Jordan Clayton)</author>
-      <guid>https://jordan-clayton.github.io/tags/software/</guid>
       <description></description>
     </item>
     <item>

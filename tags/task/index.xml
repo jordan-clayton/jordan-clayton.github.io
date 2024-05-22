@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Flutter on </title>
-    <link>https://jordan-clayton.github.io/tags/flutter/</link>
-    <description>Recent content in Flutter on </description>
+    <title>Task on </title>
+    <link>https://jordan-clayton.github.io/tags/task/</link>
+    <description>Recent content in Task on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>jordan.clayton@torontomu.ca (Jordan Clayton)</managingEditor>
     <webMaster>jordan.clayton@torontomu.ca (Jordan Clayton)</webMaster>
     <lastBuildDate>Wed, 22 May 2024 04:15:18 -0400</lastBuildDate>
-    <atom:link href="https://jordan-clayton.github.io/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jordan-clayton.github.io/tags/task/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Allocate</title>
       <link>https://jordan-clayton.github.io/projects/allocate/</link>

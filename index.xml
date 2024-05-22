@@ -10,18 +10,18 @@
     <webMaster>jordan.clayton@torontomu.ca (Jordan Clayton)</webMaster>
     <atom:link href="https://jordan-clayton.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>https://jordan-clayton.github.io/about/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate><author>jordan.clayton@torontomu.ca (Jordan Clayton)</author>
+      <guid>https://jordan-clayton.github.io/about/</guid>
+      <description>About Me: Hi! I&amp;rsquo;m Jordan and I like to make things. I also really love video games.&#xA;I&amp;rsquo;m an aspiring developer based in Hamilton, Ontario (Canada) and am currently studying Computer Science at Toronto Metropolitan University.&#xA;I&amp;rsquo;m interested in mobile and desktop development, low-level programming, and am planning to start learning more about compilers.</description>
+    </item>
+    <item>
       <title>Allocate</title>
       <link>https://jordan-clayton.github.io/projects/allocate/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate><author>jordan.clayton@torontomu.ca (Jordan Clayton)</author>
       <guid>https://jordan-clayton.github.io/projects/allocate/</guid>
       <description>Neurodivergent-Friendly Task Management built with Flutter</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://jordan-clayton.github.io/about/</link>
-      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><author>jordan.clayton@torontomu.ca (Jordan Clayton)</author>
-      <guid>https://jordan-clayton.github.io/about/</guid>
-      <description>About Me: Uhhhhh&amp;hellip; stuff.</description>
     </item>
     <item>
       <title>Contact</title>
@@ -35,7 +35,7 @@
       <link>https://jordan-clayton.github.io/cv/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><author>jordan.clayton@torontomu.ca (Jordan Clayton)</author>
       <guid>https://jordan-clayton.github.io/cv/</guid>
-      <description>Resume content here </description>
+      <description>Complete Resume (pdf)&#xA;Technical Skills Languages | Dart, C, Rust, Java, Python, Bash, SQL Tooling | Vim, VSCode, Android Studio Technologies | Linux, Flutter, Supabase, GitHub, Pandas, WordPress, LaTeX Education Honors Bachelor of Science (BSc): Computer Science Sep. 2022 - Exp. 2027 Toronto Metropolitan University (Formerly Ryerson) CGPA: 4.17 / 4.33 Alumni Award: Best combined performance in CPS 213 and CPS 310 (Computer Organization I &amp; II, awarded 2024) Dean&#39;s List (2022-2023) Relevant Coursework Object-Oriented Programming Unix &amp; C Programming Data Structures &amp; Algorithms Computer Architecture &amp; Organization Comparative Programming Languages Work Experience IFS Ontario Jul.</description>
     </item>
   </channel>
 </rss>

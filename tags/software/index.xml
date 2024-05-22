@@ -8,14 +8,14 @@
     <language>en-us</language>
     <managingEditor>jordan.clayton@torontomu.ca (Jordan Clayton)</managingEditor>
     <webMaster>jordan.clayton@torontomu.ca (Jordan Clayton)</webMaster>
-    <lastBuildDate>Mon, 20 May 2024 23:08:40 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 04:15:18 -0400</lastBuildDate>
     <atom:link href="https://jordan-clayton.github.io/tags/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://jordan-clayton.github.io/about/</link>
-      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><author>jordan.clayton@torontomu.ca (Jordan Clayton)</author>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate><author>jordan.clayton@torontomu.ca (Jordan Clayton)</author>
       <guid>https://jordan-clayton.github.io/about/</guid>
-      <description>About Me: Uhhhhh&amp;hellip; stuff.</description>
+      <description>About Me: Hi! I&amp;rsquo;m Jordan and I like to make things. I also really love video games.&#xA;I&amp;rsquo;m an aspiring developer based in Hamilton, Ontario (Canada) and am currently studying Computer Science at Toronto Metropolitan University.&#xA;I&amp;rsquo;m interested in mobile and desktop development, low-level programming, and am planning to start learning more about compilers.</description>
     </item>
   </channel>
 </rss>
